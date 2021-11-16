@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+The image was taken from my desktop!
+![image]("C:\Users\Srikanth\Downloads\Screenshot (5) (1).png")
